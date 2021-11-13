@@ -1,3 +1,8 @@
 [1] https://scikit-learn.org/stable/
 [2] https://www.youtube.com/watch?v=rvVkVsG49uU
 [3] https://www.ibm.com/cloud/blog/supervised-vs-unsupervised-learning
+[4] http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/
+[5] Pandas
+[6] Numpy
+[7] https://machinelearningmastery.com/standard-machine-learning-datasets/
+[8] https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
