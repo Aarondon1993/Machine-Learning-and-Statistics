@@ -6,3 +6,8 @@
 [6] Numpy
 [7] https://machinelearningmastery.com/standard-machine-learning-datasets/
 [8] https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+[9] https://www.kellogg.northwestern.edu/faculty/weber/jhu/statistics/regression.htm
+[10] https://www.openml.org/d/42165
+[11] Matplotlib
+[12] https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+https://www.kaggle.com/camnugent/california-housing-prices/version/1
