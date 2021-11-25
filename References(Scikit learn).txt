@@ -12,3 +12,5 @@
 [12] Sklearn preprocessing
 [13] https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
 https://www.kaggle.com/camnugent/california-housing-prices/version/1
+
+[https://www.youtube.com/watch?v=1XqG0kaJVHY]
