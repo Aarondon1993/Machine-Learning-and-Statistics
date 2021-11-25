@@ -1,4 +1,4 @@
-Person,gender,Age,Height,pre.weight,Diet,weight6weeks,weightloss6weeks
+Person,gender,Age,Height,preweight,Diet,weight6weeks,weightloss6weeks
 25,1,41,171,60,2,60,0
 26,1,32,174,103,2,103,0
 1,0,22,159,58,1,54.2,3.8
