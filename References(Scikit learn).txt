@@ -6,11 +6,12 @@
 [6] Numpy
 [7] https://machinelearningmastery.com/standard-machine-learning-datasets/
 [8] https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
-[9] https://www.kellogg.northwestern.edu/faculty/weber/jhu/statistics/regression.htm
-[10] https://www.openml.org/d/42165
-[11] Matplotlib
-[12] Sklearn preprocessing
-[13] https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+[9] https://machinelearningmastery.com/precision-recall-and-f-measure-for-imbalanced-classification/
+[10] https://www.kellogg.northwestern.edu/faculty/weber/jhu/statistics/regression.htm
+[11] https://www.openml.org/d/42165
+[12] Matplotlib
+[13] Sklearn preprocessing
+[14] https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
 https://www.kaggle.com/camnugent/california-housing-prices/version/1
 
 [https://www.youtube.com/watch?v=1XqG0kaJVHY]
