@@ -12,6 +12,8 @@
 [12] Matplotlib
 [13] Sklearn preprocessing
 [14] https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+[15] https://dzone.com/articles/kmeans-silhouette-score-explained-with-python-exam#:~:text=Silhouette%20score%20is%20used%20to,are%20similar%20to%20each%20other.&text=This%20distance%20can%20also%20be%20called%20a%20mean%20nearest%2Dcluster%20distance.
+[16] https://www.youtube.com/watch?v=zQfEc7vA1gU
 https://www.kaggle.com/camnugent/california-housing-prices/version/1
 
 [https://www.youtube.com/watch?v=1XqG0kaJVHY]
