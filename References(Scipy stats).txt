@@ -1,5 +1,0 @@
-[1] https://docs.scipy.org/doc/scipy/reference/stats.html
-[2] https://docs.scipy.org/doc/scipy-0.14.0/reference/stats.html#module-scipy.stats
-[2] https://www.youtube.com/watch?v=AhZ-hllEVxs
-[dataset] https://www.sheffield.ac.uk/mash/statistics/datasets
-[3] https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.php

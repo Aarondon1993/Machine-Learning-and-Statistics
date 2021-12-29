@@ -1,0 +1,18 @@
+Aaron Donnelly
+G00299531
+
+Machine Learning and Statistics Repository Instructions.
+
+This repository contains two Jupyter Notebooks, one for the scikit learn demonstration,
+and a second for the scipy.stat demonstration. The repository also contains a data directory
+which contains all the .csv used in both notebooks. Finally the repository contains a readme
+which summarises the repository.  All Jupyter Notebooks have been clear of all outputs.
+To run the cells please navigate to the cell button located at the top toolbar and select ‘Run All’.
+This should display all cells. Two points to note when running the notebooks.
+
+
+1. Please ensure that you are using the latest version of Scipy, as some of the features contained
+within the notebook might not run on older versions.
+
+2. Please ensure to keep the data file on the same tier as the original repository as changing
+this will affect the file path within the notebook.
